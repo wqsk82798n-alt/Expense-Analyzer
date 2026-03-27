@@ -154,15 +154,24 @@ Problem #4 - 인사이트 실효성 부족
 
 ## 7. Glossary
 
-| Term | Definition | 
+| Term | Definition |
+
 | User | 소비 데이터를 입력하는 사용자 | 
+
 | Transaction | 개별 지출/수입 기록 | 
+
 | Category | 소비 항목 분류 |
+
 | Budget | 사용자가 설정한 지출 한도 |
+
 | Analysis Engine | 소비 데이터를 분석하는 모듈 |
+
 | Insight | 소비 패턴 및 원인 분석 결과 |
+
 | Import | 외부에서 생성된 데이터를 시스템으로 가져옴|
+
 | Export | 시스템에 저장된 데이터를 외부 파일로 내보내는 기능(백업용도)|
+
 
 ## 8. References
 
